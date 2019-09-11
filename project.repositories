@@ -1,0 +1,36 @@
+<project-repositories>
+  <repositories>
+    <repository>
+      <include>true</include>
+      <metadata>
+        <id>guvnor-m2-repo-rhdm</id>
+        <url>http://10.200.90.7:8080/decision-central/maven2/</url>
+        <source>SETTINGS</source>
+      </metadata>
+    </repository>
+    <repository>
+      <include>true</include>
+      <metadata>
+        <id>internal-repository</id>
+        <url>http://nexus.bantcent.cl/repository/public/</url>
+        <source>SETTINGS</source>
+      </metadata>
+    </repository>
+    <repository>
+      <include>true</include>
+      <metadata>
+        <id>guvnor-m2-repo</id>
+        <url>http://balibrms01des.domdes01.cl:8080/business-central/maven2/</url>
+        <source>SETTINGS</source>
+      </metadata>
+    </repository>
+    <repository>
+      <include>true</include>
+      <metadata>
+        <id>local</id>
+        <url>C:\Users\jprieto/.m2/repository</url>
+        <source>LOCAL</source>
+      </metadata>
+    </repository>
+  </repositories>
+</project-repositories>
